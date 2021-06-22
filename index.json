@@ -1,7 +1,2 @@
 {
-    "example_name" : {
-        "Name": "Example Product",
-        "Description": "This Example Product allows you to do very powerful things.",
-        "Download": "https://website.com/download.lua"
-    }
 }
