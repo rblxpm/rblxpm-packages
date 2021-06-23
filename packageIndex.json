@@ -1,6 +1,6 @@
 {
-   "CoolPackage": {
+   "CoolPackage": [
     "Name":"Cool Package",
     "ID":"CoolPackage",
-   }
+   ]
 }
